@@ -14,4 +14,5 @@ function build() {
 build darwin x64
 build linux ia32
 build linux x64
+build linux mips64el
 #build win32 ia32
